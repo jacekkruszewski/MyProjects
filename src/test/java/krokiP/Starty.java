@@ -57,6 +57,7 @@ public class Starty {
         int x2 = 75;
         int x3 = 75;
         int x4 = 75;
+        int x5 = 75;
         // for (int i =0; i<x; i++)
         //{
         System.out.println(lista.get(0).get(0));
